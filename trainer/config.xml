@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<configuration>
+	<dataset path="../image_augmentation/dataset" />
+	<train preTrainedModel="../image_augmentation/dataset/models/preTrainedModel.h5" batch="12" experiments="25"/>
+</configuration>
