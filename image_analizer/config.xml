@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<configuration>
+	<database host="127.0.0.1" port="3306" username="root" password="@Password1234"/>
+	<model path="/home/jeyson/jeyson_leaf_disease_detection/image_augmentation/dataset/models/detection_model-ex-001--loss-0044.370.h5" json="/home/jeyson/jeyson_leaf_disease_detection/image_augmentation/dataset/json/detection_config.json"/>
+	<directories base="/var/www/html/" uploads="uploads/" original="analized-uploads/original/" analized="analized-uploads/" />
+</configuration>
